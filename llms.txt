@@ -1,0 +1,20 @@
+# @three-ws/marketplace-mcp
+
+> Browse the three.ws agent marketplace and skills catalog from any AI agent. browse_agents and browse_skills search & page the public listings; agent_detail and the category tools round out discovery. Read-only — no key, no signer, no payment.
+
+@three-ws/marketplace-mcp is a Model Context Protocol server from three.ws. Install: `npx -y @three-ws/marketplace-mcp`.
+
+## Docs
+
+- [README](https://github.com/nirholas/nft-marketplace-mcp/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/nft-marketplace-mcp/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/nft-marketplace-mcp/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/nft-marketplace-mcp/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/nft-marketplace-mcp)
+- [npm](https://www.npmjs.com/package/@three-ws/marketplace-mcp)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/nft-marketplace-mcp/issues)
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.nirholas%2Fmarketplace-mcp)
